@@ -19,6 +19,11 @@ people = int(input("How many people to split the bill? "))
 
 
 
+tip = tip_percentage/100+1
+
+
+
+'''
 if tip_percentage == 10:
     tip = 1.10
 elif tip_percentage == 12:
@@ -26,11 +31,16 @@ elif tip_percentage == 12:
 elif tip_percentage == 15:
     tip = 1.15
 
+'''
+
 
 pay = (bill/people)*tip
 
-print(f"Each person should pay: ${round(pay, 2)}")
 
+"""print(f"Each person should pay: ${round(pay, 2)}")"""
+
+
+print(f"Each person should pay: ${"{:.2f}".format(pay)}")
 
 
 
