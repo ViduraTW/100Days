@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89144161-fe43-4ef2-83d6-8cef5c5400e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/100Days.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests.py" afterDir="false" />
+    <list default="true" id="89144161-fe43-4ef2-83d6-8cef5c5400e0" name="Changes" comment="new file">
+      <change afterPath="$PROJECT_DIR$/Adding_Even_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Average_Height.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banker_Roulette.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fizz_Buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heads_or_Tails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/High_Score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password_Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock_Paper_Scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Treasure_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +45,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Day_1.executor": "Run",
-    "Python.Day_2.executor": "Run",
-    "Python.Tests.executor": "Run",
-    "Python.Tip_calculator.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Adding_Even_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Average_Height.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Banker_Roulette.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fizz_Buzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hangman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Heads or Tails.executor&quot;: &quot;Run&quot;,
+    &quot;Python.High_Score.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password_Generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Rock_Paper_Scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tip_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Treasure_map.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\_Vidura\100Days" />
@@ -71,6 +92,27 @@
       <option name="presentableId" value="Default" />
       <updated>1710924019036</updated>
     </task>
+    <task id="LOCAL-00001" summary="new file">
+      <option name="closed" value="true" />
+      <created>1713530450619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713530450619</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new file">
+      <option name="closed" value="true" />
+      <created>1713530473312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713530473312</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file" />
   </component>
 </project>
